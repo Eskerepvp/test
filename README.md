@@ -4,3 +4,4 @@
 [`https://shellshock.io/`](https://shellshock.io/)
 [`https://google.com/`](https://google.com/)
 [`https://studychemistry.org/`](https://studychemistry.org/)
+[`https://algebra.vip/`](https://algebra.vip/)
