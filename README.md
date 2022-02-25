@@ -1,13 +1,3 @@
-## Roblox Game Botter
-An upcoming roblox game botter that increases a games visit count using image detection, artifical intellegence, etc.
 
-### Functioning
-Uses [`https://tetr.io`](https://tetr.io) to create roblox accounts, join the game, and leave.
+[`https://tetr.io`](https://tetr.io)
 
-### To-Do
-- [ ] Finish The Script 
-- [ ] Add Image Detection
-- [ ] Following Users
-
-## Recommendations
-Please star and/or watch this repository to keep track of updates. 
