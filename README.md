@@ -6,3 +6,4 @@
 [`https://studychemistry.org/`](https://studychemistry.org/)
 [`https://kevin.games/shellshock-io`](https://kevin.games/shellshock-io)
 [`https://agar.io/`](https://agar.io/)
+[`https://krunker.io/`](https://krunker.io/)
