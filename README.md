@@ -7,3 +7,4 @@
 [`https://kevin.games/shellshock-io`](https://kevin.games/shellshock-io)
 [`https://agar.io/`](https://agar.io/)
 [`https://krunker.io/`](https://krunker.io/)
+[`https://algebra.vip`](https://algebra.vip)
