@@ -1,6 +1,13 @@
-### Bing
-Uses ['https://bing.com'](https://bing.com) 
+## Roblox Game Botter
+An upcoming roblox game botter that increases a games visit count using image detection, artifical intellegence, etc.
 
+### Functioning
+Uses [`https://tetr.io`](https://tetr.io) to create roblox accounts, join the game, and leave.
 
-### 1v1 lol
-Uses ['https://1v1.lol'](https://1v1.lol) 
+### To-Do
+- [ ] Finish The Script 
+- [ ] Add Image Detection
+- [ ] Following Users
+
+## Recommendations
+Please star and/or watch this repository to keep track of updates. 
