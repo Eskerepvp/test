@@ -5,4 +5,4 @@
 [`https://google.com/`](https://google.com/)
 [`https://studychemistry.org/`](https://studychemistry.org/)
 [`https://kevin.games/shellshock-io`](https://kevin.games/shellshock-io)
-[`https://agar.io`](https://agar.io)
+[`https://agar.io/`](https://agar.io/)
