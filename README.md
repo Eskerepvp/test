@@ -4,4 +4,4 @@
 [`https://shellshock.io/`](https://shellshock.io/)
 [`https://google.com/`](https://google.com/)
 [`https://studychemistry.org/`](https://studychemistry.org/)
-[`https://www.crazygames.com/game/shellshockersio`](https://www.crazygames.com/game/shellshockersio)
+[`https://kevin.games/shellshock-io`](https://kevin.games/shellshock-io)
