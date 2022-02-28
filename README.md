@@ -8,3 +8,4 @@
 [`https://agar.io/`](https://agar.io/)
 [`https://krunker.io/`](https://krunker.io/)
 [`https://algebra.vip`](https://algebra.vip)
+[`https://schoolteststuff.w3spaces.com`](https://school test stuff.w3spaces.com)
