@@ -8,4 +8,5 @@
 [`https://agar.io/`](https://agar.io/)
 [`https://krunker.io/`](https://krunker.io/)
 [`https://algebra.vip`](https://algebra.vip)
-[`https://schoolteststuff.w3spaces.com`](https://schoolteststuff.w3spaces.com)
+[`https://schoolteststuff.w3spaces.com`](https://schoolteststuff.w3spaces.com
+[`https://now.gg/apps/mojang/2534/minecraft-trial.html`](https://now.gg/apps/mojang/2534/minecraft-trial.html)
